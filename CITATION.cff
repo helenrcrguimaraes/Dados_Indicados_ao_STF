@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Pacote de replicação: análise empírica das indicações ao STF sob a Constituição de 1988"
+message: "Se utilizar este pacote, cite-o conforme os metadados abaixo. Após arquivamento no Zenodo/OSF, acrescente o DOI."
+type: dataset
+authors:
+  - family-names: "Guimarães"
+    given-names: "Helen"
+version: "1.0.0"
+date-released: "2026-04-24"
+license: "CC-BY-4.0"
+keywords:
+  - "Supremo Tribunal Federal"
+  - "Senado Federal"
+  - "Direito empírico"
+  - "Mann-Kendall"
+  - "Pettitt"
+repository-code: "INSERIR_URL_DO_GITHUB"
+doi: "INSERIR_DOI_APOS_DEPOSITO"
