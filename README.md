@@ -31,22 +31,3 @@ Os arquivos gerados aparecerão em `outputs/`.
 ## Dados
 
 Os dados estão em `dados/`. As séries temporais devem permanecer em ordem cronológica, pois os testes de Mann-Kendall e Pettitt dependem da ordem das observações.
-
-## Citação
-
-Após publicar o repositório no GitHub e arquivá-lo no Zenodo/OSF, atualizar `CITATION.cff` com a URL e o DOI.
-
-## DOI
-
-Fluxo recomendado:
-
-1. Criar repositório no GitHub.
-2. Fazer commit e push desta estrutura.
-3. Criar uma release `v1.0.0`.
-4. Conectar o GitHub ao Zenodo.
-5. Arquivar a release no Zenodo.
-6. Copiar o DOI gerado para `CITATION.cff` e para a tese.
-
-## Licença
-
-Sugerida: CC BY 4.0 para dados e documentação. Caso os scripts sejam separados, pode-se usar MIT para código e CC BY 4.0 para dados.
